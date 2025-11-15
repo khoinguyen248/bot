@@ -140,7 +140,7 @@ async def birthday_check():
                     mention = name  # fallback nếu ID sai
 
                 msg = (
-                    f"🎉 **Sinh nhật vui vẻ {mention}!** 🎂🥳\n"
+                    f"🎉 **Sinh nhật vui vẻ {mention}, YOU DID KING!** 🎂🥳\n"
                     "Chúc bạn tuổi mới thật nhiều sức khỏe, niềm vui và thành công!"
                 )
                 print(f"Sending birthday message for row {idx}:", msg)
