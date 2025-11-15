@@ -1,2 +1,5 @@
 discord.py
 python-dotenv
+gspread
+datetime
+oauth2client
